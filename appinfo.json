@@ -1,0 +1,46 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "pottkopp7@gmail.com",
+    "longName": "Project 1",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/charging_long.png",
+                "name": "CHARGING_LINE_LONG",
+                "type": "png"
+            },
+            {
+                "file": "images/TiH Logo pebble.png",
+                "menuIcon": true,
+                "name": "LOGO_MENU",
+                "type": "png"
+            },
+            {
+                "characterRegex": "[0-9]",
+                "compatibility": "2.7",
+                "file": "fonts/StaubigesVergnugen.ttf",
+                "name": "FONT_Clock_60",
+                "trackingAdjust": 25,
+                "type": "font"
+            },
+            {
+                "compatibility": "2.7",
+                "file": "fonts/BlackMetalSans.ttf",
+                "name": "FONT_Date_10",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "Project 1",
+    "uuid": "dde03620-230e-4018-b8ab-4e18bf5ec3ab",
+    "versionCode": 1,
+    "versionLabel": "1.10",
+    "watchapp": {
+        "watchface": true
+    }
+}
